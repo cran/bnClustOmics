@@ -37,8 +37,8 @@
 #'}
 #'@export
 bnclustOmics<-function(omicdata, bnnames, blacklist=NULL, edgepmat=NULL,
-                       kclust=2,chixi=0.5, seed=100,err=1e-6, maxEM=10,hardlim=6,
-                       deltahl=2, nit=5, epmatrix=TRUE,plus1it=4,
+                       kclust=2,chixi=0, seed=100,err=1e-6, maxEM=10,hardlim=6,
+                       deltahl=5, nit=5, epmatrix=TRUE,plus1it=4,
                        startpoint="mclustPCA",baseprob=0.4, commonspace=TRUE,
                        verbose=TRUE){
 

@@ -1,6 +1,6 @@
-f551f19d204098958f6d0093d9295fc3 *DESCRIPTION
+5dc37f303a3b6a938b4a77fff72754f3 *DESCRIPTION
 33ffd613935646572d87dccb09cc29b1 *NAMESPACE
-66a8418f05fca279e3cae72e99059c8b *R/bnclustOmics.R
+b5d88010c538a9290769ef118a28829b *R/bnclustOmics.R
 9fc063b6be7eed55fef640a60b4626d0 *R/bnclustscore.R
 4aac9a7fd6549af7d57d120a1bf12b66 *R/clustDBN.R
 8b35dc15bd555fb8637b2f846c2a5295 *R/clustfns.R
@@ -29,7 +29,7 @@ d3c911f2ef61838f7681dd51f1348572 *man/annotateEdges.Rd
 e3b4328ce62844d301e3f4f390aad7c5 *man/blUpdate.Rd
 842c5540af41a7717248a5669c4228a1 *man/bnInfo.Rd
 379348ac652dd2c6d55e36f2ffb311d7 *man/bnclustNetworks.Rd
-0dd16200e974fbec995aee7bddbb56ed *man/bnclustOmics.Rd
+22d4715f9b072ee67920b2a1e3066e64 *man/bnclustOmics.Rd
 c5243e244ab56e30776ac2b06dadcf4f *man/bnres2.Rd
 2f199f40aae23a3a934903d5aa1159f2 *man/bnres3.Rd
 fa28505cb58d14e46113de63ee4afc87 *man/bnres4.Rd
